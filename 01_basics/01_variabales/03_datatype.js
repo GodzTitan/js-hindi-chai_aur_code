@@ -4,7 +4,7 @@
 
 // console.log(3 + 3) console.log("Ashfaq") this is not allowed bt JS
  console.log(3 
-    + 3) // code readability should br hing
+    + 3) // code readability should by hing
 
     console.log("Ashfaq");
     
